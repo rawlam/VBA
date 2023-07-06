@@ -1,8 +1,8 @@
-# module-2-VBA-challange
+# Stock Market Data Analysis
 
 ## Overview
 
-Analysis of generated stock market data.
+Analysis of generated stock market data finding greatest percentage increase, greatest percentage decrease and greatest total volume. 
 
 ## Instructions
 
@@ -24,9 +24,9 @@ I broke down the problem into sub programs, "summary_table", "conditionals_forma
 
 | | Ticker | Value |
 | --- | --- | --- |
-| Greatest % Increase | RYU | 190.03% |
-| Greatest % Decrease | RKS | -91.60% |
-| Greatest Total Volume | ZQD | 4,373,008,528,422 |
+| `Greatest % Increase` | RYU | 190.03% |
+| `Greatest % Decrease` | RKS | -91.60% |
+| `Greatest Total Volume` | ZQD | 4,373,008,528,422 |
 
 ### 2020
 
